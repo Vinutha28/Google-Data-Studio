@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vinutha28
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Tableau, Phython, SQL, Statistics, Machine Learning
+- 🌱 I’m currently learning Tableau, Phython, SQL, Statistics, Machine Learning, Google Data Studio
 - 📫 Reach me - vinutha.r.p@gmail.com
